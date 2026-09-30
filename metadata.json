@@ -1,0 +1,6 @@
+{
+  "name": "CVLens - n8n Resume Analyzer",
+  "description": "Automated resume parsing and candidate evaluation platform connected to n8n workflow pipeline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
